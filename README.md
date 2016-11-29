@@ -5,8 +5,8 @@ This is our first github repo!
 
 :smile:
 
-:peace:
+:neckbeard:
 
 :hankey:
 
-:frown:
+:toilet:
